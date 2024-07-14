@@ -12,6 +12,12 @@ I'm a passionate developer and AI enthusiast with a strong focus on creating inn
 - Full-stack development
 - Open source contributions
 
+## 🚀 Skills
+- Languages: C++, Python, HTML, CSS, JavaScript
+- Frameworks & Libraries: React
+- Databases: SQL
+- Tools & Technologies: LangChain, FAISS, OpenAI
+
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/himanshu-meena-63476a1a5/)
 - [Email](mailto:himanshumeena2416@gmail.com)
