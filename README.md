@@ -2,13 +2,11 @@
 
 ## AI Engineer | Agentic AI Engineer | AI Platform Engineer
 
-I build production-grade AI platforms powered by LLMs, multi-agent systems, and enterprise AI workflows.
-
-Currently working as an AI Engineer at **Pansophic Technologies**, where I architect and develop scalable Agentic AI systems using Google ADK, OpenAI, Gemini, FastAPI, and Golang. My work focuses on designing intelligent AI agents capable of reasoning, tool use, long-term memory, and real-world enterprise automation.
+I am an AI Engineer and Team Lead specializing in production-grade Agentic AI platforms, multi-agent systems, and enterprise LLM applications. I architect scalable AI systems with reasoning, tool calling, long-term memory, human-in-the-loop workflows, and enterprise integrations using Google ADK, OpenAI, Gemini, FastAPI, and Golang.
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ Technologies I Work With
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -56,7 +54,7 @@ Currently working as an AI Engineer at **Pansophic Technologies**, where I archi
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Expertise
 
 ### Agentic AI
 - Google ADK
