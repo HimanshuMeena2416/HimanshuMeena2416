@@ -8,6 +8,17 @@ Currently working as an AI Engineer at **Pansophic Technologies**, where I archi
 
 ---
 
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-Agentic%20AI-blue?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT-black?style=for-the-badge&logo=openai)
+![Gemini](https://img.shields.io/badge/Gemini-Google-blue?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
 ## 🚀 What I'm Working On
 
 ### 🤖 Multi-Agent AI Platforms
