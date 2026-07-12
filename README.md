@@ -11,11 +11,15 @@ Currently working as an AI Engineer at **Pansophic Technologies**, where I archi
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Google%20ADK-Agentic%20AI-blue?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT-black?style=for-the-badge&logo=openai)
-![Gemini](https://img.shields.io/badge/Gemini-Google-blue?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude-191919?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
