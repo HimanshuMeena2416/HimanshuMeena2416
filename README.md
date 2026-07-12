@@ -135,7 +135,7 @@ AI-powered document extraction, OCR, semantic retrieval, and CV–JD matching ac
 
 ### 🚀 AI Career Operating System *(in progress)*
 Building a multi-agent platform for intelligent job discovery, resume tailoring, recruiter outreach, and interview preparation using Google ADK, Gemini, MCP, FastAPI, and PostgreSQL (pgvector).
-**[🔗 View Repo](#)** — *add your repo link here*
+**[🔗 View Repo](https://github.com/HimanshuMeena2416/career-agent)**
 
 ---
 
