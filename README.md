@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Himanshu Meena
 
-## AI Engineer | Agentic AI Engineer | AI Platform Engineer
+## AI Engineer | Agentic AI Engineer | Team Lead | AI Platform Engineer
 
 I specialize in building production-grade **Agentic AI platforms**, **multi-agent systems**, and **enterprise LLM applications** that solve real-world business problems.
 
-Currently, I work as an **AI Engineer & Team Lead** at **Pansophic Technologies**, where I architect and build intelligent AI systems capable of reasoning, tool calling, long-term memory, enterprise RAG, human-in-the-loop workflows, and autonomous task execution using **Google ADK, OpenAI, Gemini, FastAPI, and Golang**.
+Currently, I work as an **AI Engineer & Team Lead** at **Pansophic Technologies**, leading a team of 10 AI engineers and architecting intelligent AI systems capable of reasoning, tool calling, long-term memory, enterprise RAG, human-in-the-loop workflows, and autonomous task execution using **Google ADK, OpenAI, Gemini, FastAPI, and Golang**.
 
 I enjoy designing AI systems that move beyond chatbots—building autonomous agents that collaborate, plan, retrieve knowledge, and automate complex enterprise workflows.
 
@@ -37,7 +37,7 @@ I enjoy designing AI systems that move beyond chatbots—building autonomous age
 ### 📧 Enterprise AI Email Systems
 - AI Email Assistants for Gmail & Microsoft Outlook
 - 85+ Function Calling tools
-- Enterprise RAG
+- Enterprise RAG with confidence-based guardrails
 - OAuth 2.0 & Microsoft Graph integration
 - Real-time mailbox synchronization
 - AI-generated drafts, summaries & workflow automation
@@ -71,7 +71,7 @@ I enjoy designing AI systems that move beyond chatbots—building autonomous age
 - Prompt Engineering
 - Enterprise RAG
 - Semantic Search
-- Human-in-the-Loop
+- Human-in-the-Loop Workflows
 - AI Guardrails
 
 ### Foundation Models
@@ -111,24 +111,31 @@ I enjoy designing AI systems that move beyond chatbots—building autonomous age
 
 ### 🏗️ Allyra Agent Builder
 A conversational AI system that enables users to build and deploy enterprise AI agents using Google ADK, reusable sub-agents, and A2A Protocol.
+*Enterprise/proprietary platform — architecture and design details available on request.*
 
 ### 📧 Allyra MailDesk
 Production AI email assistant supporting Gmail & Outlook with 85+ function tools, real-time synchronization, and enterprise integrations.
+*Enterprise/proprietary platform — architecture and design details available on request.*
 
 ### 📬 ComAssist
 Knowledge-grounded enterprise AI email platform featuring RAG, AI guardrails, confidence-based routing, and human-in-the-loop workflows.
+*Enterprise/proprietary platform — architecture and design details available on request.*
 
 ### 👨‍💼 Multi-Agent Recruitment Platform
 Enterprise hiring automation platform that coordinates specialized AI agents for recruitment, screening, evaluation, and scheduling.
+*Enterprise/proprietary platform — architecture and design details available on request.*
 
 ### 🎙️ Real-Time AI Interview Platform
 Low-latency multimodal AI interviewing system powered by GPT Realtime API with streaming voice interactions.
+*Enterprise/proprietary platform — architecture and design details available on request.*
 
 ### 📄 Enterprise Document Intelligence
 AI-powered document extraction, OCR, semantic retrieval, and CV–JD matching across enterprise-scale document repositories.
+*Enterprise/proprietary platform — architecture and design details available on request.*
 
-### 🚀 AI Career Operating System
-A production-ready multi-agent platform for intelligent job discovery, resume optimization, recruiter outreach, and interview preparation.
+### 🚀 AI Career Operating System *(in progress)*
+Building a multi-agent platform for intelligent job discovery, resume tailoring, recruiter outreach, and interview preparation using Google ADK, Gemini, MCP, FastAPI, and PostgreSQL (pgvector).
+**[🔗 View Repo](#)** — *add your repo link here*
 
 ---
 
