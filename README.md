@@ -2,7 +2,11 @@
 
 ## AI Engineer | Agentic AI Engineer | AI Platform Engineer
 
-I am an AI Engineer and Team Lead specializing in production-grade Agentic AI platforms, multi-agent systems, and enterprise LLM applications. I architect scalable AI systems with reasoning, tool calling, long-term memory, human-in-the-loop workflows, and enterprise integrations using Google ADK, OpenAI, Gemini, FastAPI, and Golang.
+I specialize in building production-grade **Agentic AI platforms**, **multi-agent systems**, and **enterprise LLM applications** that solve real-world business problems.
+
+Currently, I work as an **AI Engineer & Team Lead** at **Pansophic Technologies**, where I architect and build intelligent AI systems capable of reasoning, tool calling, long-term memory, enterprise RAG, human-in-the-loop workflows, and autonomous task execution using **Google ADK, OpenAI, Gemini, FastAPI, and Golang**.
+
+I enjoy designing AI systems that move beyond chatbots—building autonomous agents that collaborate, plan, retrieve knowledge, and automate complex enterprise workflows.
 
 ---
 
@@ -21,71 +25,74 @@ I am an AI Engineer and Team Lead specializing in production-grade Agentic AI pl
 
 ---
 
-## 🚀 What I'm Working On
+# 🚀 What I Build
 
 ### 🤖 Multi-Agent AI Platforms
-- Enterprise multi-agent platforms using **Google ADK**
-- Agent orchestration with **A2A Protocol** and **MCP**
-- Long-term memory, enterprise RAG, and human-in-the-loop workflows
-- AI Agent Builder for conversational creation of enterprise AI agents
+- Production multi-agent platforms using **Google ADK**
+- Agent orchestration with **A2A Protocol** & **MCP**
+- Enterprise RAG with long-term memory
+- Human-in-the-loop AI workflows
+- Conversational AI Agent Builder
 
-### 📧 AI Email Platforms
-- Production AI email assistants for Gmail & Outlook
-- 85+ function-calling tools
+### 📧 Enterprise AI Email Systems
+- AI Email Assistants for Gmail & Microsoft Outlook
+- 85+ Function Calling tools
 - Enterprise RAG
-- OAuth 2.0 authentication
+- OAuth 2.0 & Microsoft Graph integration
 - Real-time mailbox synchronization
-- Confidence-based human approval workflows
+- AI-generated drafts, summaries & workflow automation
 
 ### 👨‍💼 AI Recruitment Platforms
-- Multi-agent recruitment automation
-- JD generation
+- Multi-agent hiring automation
+- Job Description generation
 - CV parsing & semantic matching
+- AI candidate screening & evaluation
 - Interview scheduling
-- AI candidate evaluation
-- Resume tailoring and recruiter outreach automation
+- Resume tailoring & recruiter outreach
 
-### 🎙️ Real-Time AI Systems
+### 🎙️ Real-Time AI Applications
 - GPT Realtime API
-- Voice AI
-- Multimodal AI
-- Low-latency streaming applications
-- AI Interview Platforms
+- Voice AI & multimodal interactions
+- AI Interview Platform
+- Low-latency streaming systems
+- Agent-to-Agent communication
 
 ---
 
-## 🛠 Technical Expertise
+# 🛠 Technical Expertise
 
-### Agentic AI
+### Agentic AI & LLM Engineering
 - Google ADK
+- Multi-Agent Systems
 - A2A Protocol
 - MCP
 - LiteLLM
-- Multi-Agent Systems
-- Function Calling
+- Function & Tool Calling
 - Prompt Engineering
-- Human-in-the-Loop
 - Enterprise RAG
+- Semantic Search
+- Human-in-the-Loop
+- AI Guardrails
 
-### LLMs
+### Foundation Models
 - OpenAI GPT Models
 - GPT Realtime API
-- Google Gemini
+- Google Gemini Models
 - Anthropic Claude
 - xAI Grok
 
-### Backend
+### Backend Engineering
 - Python
 - Golang
 - FastAPI
 - SQLAlchemy
-- Pydantic
 - AsyncIO
+- Pydantic
 - REST APIs
 - WebSockets
-- httpx
+- HTTPX
 
-### Databases
+### Data & Infrastructure
 - PostgreSQL
 - MongoDB
 - Redis
@@ -93,44 +100,54 @@ I am an AI Engineer and Team Lead specializing in production-grade Agentic AI pl
 - FAISS
 - ChromaDB
 - NebulaGraph
-
-### Cloud & Infrastructure
 - Docker
 - AWS S3
 - Vertex AI
 - GCP
-- Git
 
 ---
 
-## 💼 Featured Projects
+# 💼 Featured Projects
 
-- 🤖 Enterprise Multi-Agent AI Platform
-- 🏗️ Allyra Agent Builder
-- 📧 Allyra MailDesk
-- 📬 AI Email Communication Agent (ComAssist)
-- 👨‍💼 AI Recruitment Platform
-- 🎙️ Real-Time AI Interview Platform
-- 📄 Enterprise Document Intelligence & CV Matching
-- 🚀 AI Career Operating System
+### 🏗️ Allyra Agent Builder
+A conversational AI system that enables users to build and deploy enterprise AI agents using Google ADK, reusable sub-agents, and A2A Protocol.
+
+### 📧 Allyra MailDesk
+Production AI email assistant supporting Gmail & Outlook with 85+ function tools, real-time synchronization, and enterprise integrations.
+
+### 📬 ComAssist
+Knowledge-grounded enterprise AI email platform featuring RAG, AI guardrails, confidence-based routing, and human-in-the-loop workflows.
+
+### 👨‍💼 Multi-Agent Recruitment Platform
+Enterprise hiring automation platform that coordinates specialized AI agents for recruitment, screening, evaluation, and scheduling.
+
+### 🎙️ Real-Time AI Interview Platform
+Low-latency multimodal AI interviewing system powered by GPT Realtime API with streaming voice interactions.
+
+### 📄 Enterprise Document Intelligence
+AI-powered document extraction, OCR, semantic retrieval, and CV–JD matching across enterprise-scale document repositories.
+
+### 🚀 AI Career Operating System
+A production-ready multi-agent platform for intelligent job discovery, resume optimization, recruiter outreach, and interview preparation.
 
 ---
 
-## 🌱 Currently Exploring
+# 🌱 Currently Exploring
 
-- Advanced Agentic AI Architectures
-- AI Agent Evaluation & Reliability
+- Agent Evaluation Frameworks
+- Reliable & Observable AI Systems
 - AI Safety & Guardrails
-- Scalable Multi-Agent Systems
-- Enterprise AI Infrastructure
+- Enterprise Agent Architectures
+- Long-Term Agent Memory
+- Autonomous Multi-Agent Collaboration
 
 ---
 
-## 📫 Connect With Me
+# 📫 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/himanshu-meena-63476a1a5/
-- 📧 Email: himanshumeena2416@gmail.com
+- 💼 LinkedIn: **https://www.linkedin.com/in/himanshu-meena-63476a1a5/**
+- 📧 Email: **himanshumeena2416@gmail.com**
 
 ---
 
-> *"Building intelligent AI systems that don't just generate responses—they reason, collaborate, and automate real-world workflows."*
+> **"I enjoy building AI systems that don't just generate text—they reason, collaborate, retrieve knowledge, and automate complex enterprise workflows."**
