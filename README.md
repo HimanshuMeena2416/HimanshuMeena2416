@@ -142,8 +142,8 @@ Building a multi-agent platform for intelligent job discovery, resume tailoring,
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HimanshuMeena2416&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Himanshu's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuMeena2416&layout=compact&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HimanshuMeena2416&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" alt="Himanshu's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuMeena2416&layout=compact&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
