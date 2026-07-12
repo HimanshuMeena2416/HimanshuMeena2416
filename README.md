@@ -1,26 +1,123 @@
-# 👋 Hi there, I'm Himanshu Meena!
+# 👋 Hi, I'm Himanshu Meena
 
-I'm a passionate developer and AI enthusiast with a strong focus on creating innovative solutions using state-of-the-art technologies. My work revolves around the intersection of conversational AI, data processing, and automation.
+## AI Engineer | Agentic AI Engineer | AI Platform Engineer
 
-## 🔭 Current Projects
-- **Conversational AI Chatbot**: Leveraging LangChain, FAISS, and OpenAI's models to build an intelligent chatbot that efficiently retrieves and processes information from diverse data sources.
-- **Multimedia Data Conversion**: Converting audio to text and video to PDF to enhance accessibility and information retrieval.
+I build production-grade AI platforms powered by LLMs, multi-agent systems, and enterprise AI workflows.
 
-## 🌱 Learning & Interests
-- Advanced NLP techniques
-- Machine Learning and AI advancements
-- Full-stack development
-- Open source contributions
+Currently working as an AI Engineer at **Pansophic Technologies**, where I architect and develop scalable Agentic AI systems using Google ADK, OpenAI, Gemini, FastAPI, and Golang. My work focuses on designing intelligent AI agents capable of reasoning, tool use, long-term memory, and real-world enterprise automation.
 
-## 🚀 Skills
-- Languages: C++, Python, HTML, CSS, JavaScript
-- Frameworks & Libraries: React
-- Databases: SQL
-- Tools & Technologies: LangChain, FAISS, OpenAI
+---
 
-## 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/himanshu-meena-63476a1a5/)
-- [Email](mailto:himanshumeena2416@gmail.com)
+## 🚀 What I'm Working On
 
-## ⚡ Fun Fact
-I love exploring the latest tech trends and integrating them into my projects to push the boundaries of what's possible!
+### 🤖 Multi-Agent AI Platforms
+- Enterprise multi-agent platforms using **Google ADK**
+- Agent orchestration with **A2A Protocol** and **MCP**
+- Long-term memory, enterprise RAG, and human-in-the-loop workflows
+- AI Agent Builder for conversational creation of enterprise AI agents
+
+### 📧 AI Email Platforms
+- Production AI email assistants for Gmail & Outlook
+- 85+ function-calling tools
+- Enterprise RAG
+- OAuth 2.0 authentication
+- Real-time mailbox synchronization
+- Confidence-based human approval workflows
+
+### 👨‍💼 AI Recruitment Platforms
+- Multi-agent recruitment automation
+- JD generation
+- CV parsing & semantic matching
+- Interview scheduling
+- AI candidate evaluation
+- Resume tailoring and recruiter outreach automation
+
+### 🎙️ Real-Time AI Systems
+- GPT Realtime API
+- Voice AI
+- Multimodal AI
+- Low-latency streaming applications
+- AI Interview Platforms
+
+---
+
+## 🛠 Tech Stack
+
+### Agentic AI
+- Google ADK
+- A2A Protocol
+- MCP
+- LiteLLM
+- Multi-Agent Systems
+- Function Calling
+- Prompt Engineering
+- Human-in-the-Loop
+- Enterprise RAG
+
+### LLMs
+- OpenAI GPT Models
+- GPT Realtime API
+- Google Gemini
+- Anthropic Claude
+- xAI Grok
+
+### Backend
+- Python
+- Golang
+- FastAPI
+- SQLAlchemy
+- Pydantic
+- AsyncIO
+- REST APIs
+- WebSockets
+- httpx
+
+### Databases
+- PostgreSQL
+- MongoDB
+- Redis
+- Qdrant
+- FAISS
+- ChromaDB
+- NebulaGraph
+
+### Cloud & Infrastructure
+- Docker
+- AWS S3
+- Vertex AI
+- GCP
+- Git
+
+---
+
+## 💼 Featured Projects
+
+- 🤖 Enterprise Multi-Agent AI Platform
+- 🏗️ Allyra Agent Builder
+- 📧 Allyra MailDesk
+- 📬 AI Email Communication Agent (ComAssist)
+- 👨‍💼 AI Recruitment Platform
+- 🎙️ Real-Time AI Interview Platform
+- 📄 Enterprise Document Intelligence & CV Matching
+- 🚀 AI Career Operating System
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced Agentic AI Architectures
+- AI Agent Evaluation & Reliability
+- AI Safety & Guardrails
+- Scalable Multi-Agent Systems
+- Enterprise AI Infrastructure
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/himanshu-meena-63476a1a5/
+- 📧 Email: himanshumeena2416@gmail.com
+
+---
+
+> *"Building intelligent AI systems that don't just generate responses—they reason, collaborate, and automate real-world workflows."*
