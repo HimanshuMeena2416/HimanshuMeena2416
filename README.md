@@ -109,33 +109,37 @@ I enjoy designing AI systems that move beyond chatbots—building autonomous age
 
 # 💼 Featured Projects
 
+## Open Source
+
+### 🛡️ llm-resilience
+Reliability primitives for LLM API calls — retry with jittered backoff, circuit breaking, API-key rotation with per-key cooldown, bounded concurrency, and cross-provider fallback. Async, provider-agnostic, zero runtime dependencies. Time is injected through a `Clock` protocol, so the full test suite advances a manual clock by hand and runs in under half a second with no sleeps and no flakes.
+**[🔗 View Repo](https://github.com/HimanshuMeena2416/llm-resilience)**
+
+### 🤖 career-agent
+Reference implementation of a Google ADK multi-agent career assistant: 6 MCP tool servers, versioned LLM skill modules that each pair a prompt and output schema with a deterministic offline fallback, and human-in-the-loop gates enforced in code rather than in prompts. Runs end-to-end with no API keys and no network.
+**[🔗 View Repo](https://github.com/HimanshuMeena2416/career-agent)**
+
+## Production Work
+
+*The platforms below are proprietary. Architecture and design details available on request.*
+
 ### 🏗️ Allyra Agent Builder
 A conversational AI system that enables users to build and deploy enterprise AI agents using Google ADK, reusable sub-agents, and A2A Protocol.
-*Enterprise/proprietary platform — architecture and design details available on request.*
 
 ### 📧 Allyra MailDesk
 Production AI email assistant supporting Gmail & Outlook with 85+ function tools, real-time synchronization, and enterprise integrations.
-*Enterprise/proprietary platform — architecture and design details available on request.*
 
 ### 📬 ComAssist
 Knowledge-grounded enterprise AI email platform featuring RAG, AI guardrails, confidence-based routing, and human-in-the-loop workflows.
-*Enterprise/proprietary platform — architecture and design details available on request.*
 
 ### 👨‍💼 Multi-Agent Recruitment Platform
 Enterprise hiring automation platform that coordinates specialized AI agents for recruitment, screening, evaluation, and scheduling.
-*Enterprise/proprietary platform — architecture and design details available on request.*
 
 ### 🎙️ Real-Time AI Interview Platform
 Low-latency multimodal AI interviewing system powered by GPT Realtime API with streaming voice interactions.
-*Enterprise/proprietary platform — architecture and design details available on request.*
 
 ### 📄 Enterprise Document Intelligence
 AI-powered document extraction, OCR, semantic retrieval, and CV–JD matching across enterprise-scale document repositories.
-*Enterprise/proprietary platform — architecture and design details available on request.*
-
-### 🚀 AI Career Operating System *(in progress)*
-Building a multi-agent platform for intelligent job discovery, resume tailoring, recruiter outreach, and interview preparation using Google ADK, Gemini, MCP, FastAPI, and PostgreSQL (pgvector).
-**[🔗 View Repo](https://github.com/HimanshuMeena2416/career-agent)**
 
 ---
 
