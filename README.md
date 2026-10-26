@@ -2,176 +2,69 @@
 
 ## Team Lead – AI Engineering | Agentic AI, Multi-Agent Systems & Production LLM Platforms
 
-I specialize in building production-grade **Agentic AI platforms**, **multi-agent systems**, and **enterprise LLM applications** that solve real-world business problems.
+I build production-grade agentic AI platforms, multi-agent systems, and enterprise LLM applications.
 
-Currently I'm **Team Lead – AI Engineering** at **Pansophic Technologies** — I joined as an AI Engineer in Oct 2024 and moved into the lead role in Jan 2026. I lead a team of 10 AI engineers and architect intelligent AI systems capable of reasoning, tool calling, long-term memory, enterprise RAG, human-in-the-loop workflows, and autonomous task execution using **Google ADK, OpenAI, Gemini, FastAPI, and Golang**.
+Currently I'm **Team Lead – AI Engineering** at **Pansophic Technologies** — I joined as an AI Engineer in Oct 2024 and moved into the lead role in Jan 2026. I lead a team of 10 AI engineers and architect systems that reason, call tools, keep long-term memory, retrieve over enterprise knowledge, and run real work end to end with humans in the loop.
 
-I enjoy designing AI systems that move beyond chatbots—building autonomous agents that collaborate, plan, retrieve knowledge, and automate complex enterprise workflows.
-
----
-
-## ⚡ Technologies I Work With
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google%20ADK-Agentic%20AI-blue?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT-black?style=for-the-badge&logo=openai)
-![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-Claude-191919?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+The part I care about is less the model and more the orchestration, latency and reliability around it — getting an agent to call the right tool, remember the right thing, and fail safely.
 
 ---
 
-# 🚀 What I Build
+## 🧪 Open Source
 
-### 🤖 Multi-Agent AI Platforms
-- Production multi-agent platforms using **Google ADK**
-- Agent orchestration with **A2A Protocol** & **MCP**
-- Enterprise RAG with long-term memory
-- Human-in-the-loop AI workflows
-- Conversational AI Agent Builder
+### 🛡️ [llm-resilience](https://github.com/HimanshuMeena2416/llm-resilience)
 
-### 📧 Enterprise AI Email Systems
-- AI Email Assistants for Gmail & Microsoft Outlook
-- 85+ Function Calling tools
-- Enterprise RAG with confidence-based guardrails
-- OAuth 2.0 & Microsoft Graph integration
-- Real-time mailbox synchronization
-- AI-generated drafts, summaries & workflow automation
+Reliability primitives for LLM API calls — retry with jittered backoff, circuit breaking, API-key rotation with per-key cooldown, bounded concurrency, and cross-provider fallback. Async, provider-agnostic, zero runtime dependencies.
 
-### 👨‍💼 AI Recruitment Platforms
-- Multi-agent hiring automation
-- Job Description generation
-- CV parsing & semantic matching
-- AI candidate screening & evaluation
-- Interview scheduling
-- Resume tailoring & recruiter outreach
+A production LLM call fails in five distinct ways, and each one wants a different response; most retry helpers collapse them into a single policy. Time is injected through a `Clock` protocol, so the full test suite advances a manual clock by hand and runs in under half a second — no sleeps, no flakes.
 
-### 🎙️ Real-Time AI Applications
-- GPT Realtime API
-- Voice AI & multimodal interactions
-- AI Interview Platform
-- Low-latency streaming systems
-- Agent-to-Agent communication
+`Python` · `asyncio` · `circuit breaker` · `key rotation` · `provider fallback`
+
+### 🤖 [career-agent](https://github.com/HimanshuMeena2416/career-agent)
+
+Reference implementation of a Google ADK multi-agent career assistant: 6 MCP tool servers, versioned LLM skill modules that each pair a prompt and an output schema with a deterministic offline fallback, and human-in-the-loop gates enforced in code rather than in prompts.
+
+The whole pipeline runs end to end with no API keys and no network, so the architecture is inspectable without credentials. The repo implements the AI layer of a 23-page product specification.
+
+`Google ADK` · `Gemini` · `MCP` · `FastAPI` · `PostgreSQL + pgvector`
 
 ---
 
-# 🛠 Technical Expertise
-
-### Agentic AI & LLM Engineering
-- Google ADK
-- Multi-Agent Systems
-- A2A Protocol
-- MCP
-- LiteLLM
-- Function & Tool Calling
-- Prompt Engineering
-- Enterprise RAG
-- Semantic Search
-- Human-in-the-Loop Workflows
-- AI Guardrails
-
-### Foundation Models
-- OpenAI GPT Models
-- GPT Realtime API
-- Google Gemini Models
-- Anthropic Claude
-- xAI Grok
-
-### Backend Engineering
-- Python
-- Golang
-- FastAPI
-- SQLAlchemy
-- AsyncIO
-- Pydantic
-- REST APIs
-- WebSockets
-- HTTPX
-
-### Data & Infrastructure
-- PostgreSQL
-- MongoDB
-- Redis
-- Qdrant
-- FAISS
-- ChromaDB
-- NebulaGraph
-- Docker
-- AWS S3
-- Vertex AI
-- GCP
-
----
-
-# 💼 Featured Projects
-
-## Open Source
-
-### 🛡️ llm-resilience
-Reliability primitives for LLM API calls — retry with jittered backoff, circuit breaking, API-key rotation with per-key cooldown, bounded concurrency, and cross-provider fallback. Async, provider-agnostic, zero runtime dependencies. Time is injected through a `Clock` protocol, so the full test suite advances a manual clock by hand and runs in under half a second with no sleeps and no flakes.
-**[🔗 View Repo](https://github.com/HimanshuMeena2416/llm-resilience)**
-
-### 🤖 career-agent
-Reference implementation of a Google ADK multi-agent career assistant: 6 MCP tool servers, versioned LLM skill modules that each pair a prompt and output schema with a deterministic offline fallback, and human-in-the-loop gates enforced in code rather than in prompts. Runs end-to-end with no API keys and no network.
-**[🔗 View Repo](https://github.com/HimanshuMeena2416/career-agent)**
-
-## Production Work
+## 🏗️ Production Work
 
 *The platforms below are proprietary. Architecture and design details available on request.*
 
-### 🏗️ Allyra Agent Builder
-A conversational AI system that enables users to build and deploy enterprise AI agents using Google ADK, reusable sub-agents, and A2A Protocol.
+**Allyra GenAgent / Agent Builder** — multi-tenant, no-code platform for building and deploying enterprise AI agents: multi-layer RAG (Vertex AI Search, Qdrant, FAISS), persistent session memory, intelligent tool routing, and autonomous multi-agent collaboration over A2A Protocol and MCP.
 
-### 📧 Allyra MailDesk
-Production AI email assistant supporting Gmail & Outlook with 85+ function tools, real-time synchronization, and enterprise integrations.
+**MailDesk & ComAssist** — enterprise AI email platforms for Gmail and Outlook with 85+ function-calling tools, OAuth 2.0 and Microsoft Graph integration, real-time mailbox synchronization, RAG grounding, confidence-based routing and AI guardrails.
 
-### 📬 ComAssist
-Knowledge-grounded enterprise AI email platform featuring RAG, AI guardrails, confidence-based routing, and human-in-the-loop workflows.
+**Multi-Agent Recruitment Platform** — hiring automation across 6+ microservices: JD generation, CV parsing, semantic CV–JD matching, AI screening, evidence-backed evaluation scorecards, and interview scheduling.
 
-### 👨‍💼 Multi-Agent Recruitment Platform
-Enterprise hiring automation platform that coordinates specialized AI agents for recruitment, screening, evaluation, and scheduling.
+**Real-Time AI Interview Platform** — low-latency multimodal interviewing on GPT Realtime: bidirectional audio streaming, VAD/barge-in, live transcription, and AI-avatar video.
 
-### 🎙️ Real-Time AI Interview Platform
-Low-latency multimodal AI interviewing system powered by GPT Realtime API with streaming voice interactions.
-
-### 📄 Enterprise Document Intelligence
-AI-powered document extraction, OCR, semantic retrieval, and CV–JD matching across enterprise-scale document repositories.
+**Enterprise Document Intelligence** — layout-aware extraction, OCR and semantic retrieval across 15+ document formats with sub-second lookup.
 
 ---
 
-# 📊 GitHub Stats
+## 🛠 Stack
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HimanshuMeena2416&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" alt="Himanshu's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuMeena2416&layout=compact&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
+**Agentic AI & LLM** Google ADK · Multi-Agent Systems · A2A Protocol · MCP · LiteLLM · LangGraph · Function & Tool Calling · Prompt Engineering · Enterprise RAG · Semantic Search · Human-in-the-Loop Workflows · AI Guardrails
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuMeena2416&hide_border=true" alt="GitHub Streak" />
-</p>
+**Models** OpenAI GPT · GPT Realtime API · Google Gemini · Anthropic Claude · xAI Grok
 
----
+**Backend** Python · Golang · FastAPI · AsyncIO · Pydantic · SQLAlchemy · REST APIs · WebSockets · HTTPX
 
-# 🌱 Currently Exploring
-
-- Agent Evaluation Frameworks
-- Reliable & Observable AI Systems
-- AI Safety & Guardrails
-- Enterprise Agent Architectures
-- Long-Term Agent Memory
-- Autonomous Multi-Agent Collaboration
+**Data & Infrastructure** PostgreSQL · MongoDB · Redis · Qdrant · FAISS · ChromaDB · NebulaGraph · Docker · Vertex AI · GCP · AWS S3
 
 ---
 
-# 📫 Let's Connect
+## 🌱 Currently Exploring
 
-- 💼 LinkedIn: **https://www.linkedin.com/in/himanshu-meena-63476a1a5/**
-- 📧 Email: **himanshumeena2416@gmail.com**
+Agent evaluation frameworks · reliable and observable AI systems · AI safety and guardrails · enterprise agent architectures · long-term agent memory · autonomous multi-agent collaboration
 
 ---
 
-> **"I enjoy building AI systems that don't just generate text—they reason, collaborate, retrieve knowledge, and automate complex enterprise workflows."**
+## 📫 Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/himanshu-meena-63476a1a5/
+- 📧 Email: himanshumeena2416@gmail.com
