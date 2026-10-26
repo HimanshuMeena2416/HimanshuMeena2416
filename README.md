@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Himanshu Meena
 
-## AI Engineer | Agentic AI Engineer | Team Lead | AI Platform Engineer
+## Team Lead – AI Engineering | Agentic AI, Multi-Agent Systems & Production LLM Platforms
 
 I specialize in building production-grade **Agentic AI platforms**, **multi-agent systems**, and **enterprise LLM applications** that solve real-world business problems.
 
-Currently, I work as an **AI Engineer & Team Lead** at **Pansophic Technologies**, leading a team of 10 AI engineers and architecting intelligent AI systems capable of reasoning, tool calling, long-term memory, enterprise RAG, human-in-the-loop workflows, and autonomous task execution using **Google ADK, OpenAI, Gemini, FastAPI, and Golang**.
+Currently I'm **Team Lead – AI Engineering** at **Pansophic Technologies** — I joined as an AI Engineer in Oct 2024 and moved into the lead role in Jan 2026. I lead a team of 10 AI engineers and architect intelligent AI systems capable of reasoning, tool calling, long-term memory, enterprise RAG, human-in-the-loop workflows, and autonomous task execution using **Google ADK, OpenAI, Gemini, FastAPI, and Golang**.
 
 I enjoy designing AI systems that move beyond chatbots—building autonomous agents that collaborate, plan, retrieve knowledge, and automate complex enterprise workflows.
 
